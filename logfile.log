@@ -1,0 +1,13 @@
+{"message":"Couldn't get the genres","level":"error"}
+{"message":"Couldn't get the genres","level":"error"}
+{"level":"error","message":"Something failed during startup. Something failed during startup.","stack":"Error: Something failed during startup.\n    at Object.<anonymous> (/media/esraa/5E267BDF267BB71D/Courses/Udemy - Node.js The Complete Guide to Build RESTful APIs/MyWork/VIDLY/index.js:30:7)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47"}
+{"level":"error","message":"Something failed miserably. Something failed miserably.","stack":"Error: Something failed miserably.\n    at Object.<anonymous> (/media/esraa/5E267BDF267BB71D/Courses/Udemy - Node.js The Complete Guide to Build RESTful APIs/MyWork/VIDLY/index.js:38:26)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"listening on port 3000...","level":"info"}
+{"message":"connected to MongoDB...","level":"info"}
+{"message":"listening on port 3000...","level":"info"}
+{"message":"connected to MongoDB...","level":"info"}
+{"message":"listening on port 3000...","level":"info"}
+{"message":"connected to MongoDB...","level":"info"}
+{"message":"listening on port 3000...","level":"info"}
+{"message":"connected to MongoDB...","level":"info"}
+{"message":"connected to MongoDB...","level":"info"}
